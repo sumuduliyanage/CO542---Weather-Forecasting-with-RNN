@@ -1,2 +1,2 @@
-# CO542-Weather-Forecasting-with-RNN
+# Temperature Forecasting With RNN, ARIMA and SARIMA
 
